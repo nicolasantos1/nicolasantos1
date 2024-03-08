@@ -1,4 +1,4 @@
-## Progamador 👋
+## Programador 👋
 #### Portifólio:  <a href="https://nicolasantos1.github.io/">Nicolas Santos</a>
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:nicolasantos011@gmail.com)
