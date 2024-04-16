@@ -1,7 +1,7 @@
 ## Olá! 👋
 #### Portifólio:  <a href="https://nicolasantos1.github.io/">Nicolas Santos</a>
 <div>
-  <li >Estudante de TI</li>
+  <li>Desenvolvedor Web</li>
   <li>Atualmente buscando emprego para poder aprimorar minhas habilidades</li>
 </div>
 <br>
