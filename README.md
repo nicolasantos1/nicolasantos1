@@ -2,7 +2,7 @@
 #### Portifólio:  <a href="https://nicolasantos1.github.io/">Nicolas Santos</a>
 <div>
   <li>Técnico em informática</li>
-  <li>Programdor</li>
+  <li>Programador</li>
   <p></p>
 </div>
 <br>
