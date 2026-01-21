@@ -14,9 +14,7 @@
 
 ### Técnologias mais utilizadas
 <div>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
+  <li>HTML | CSS | JavaScript</li>
   <li>C#</li>
   <li>Python</li>
 </div>
