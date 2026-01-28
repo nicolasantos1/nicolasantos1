@@ -46,13 +46,13 @@
 
 <img 
     alt="GitHub Stats" 
-    width="50%"
-    style="padding-right: 10px; " 
-    src="https://github-readme-stats.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight" 
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight&hide=contribs,issues" 
 />
+
 <img 
     alt="technology"
-    width="44.68%"     
+    width="400"     
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasantos1&theme=tokyonight&layout=compact&&custom_title=Tecnologias" 
 />
 </div>
