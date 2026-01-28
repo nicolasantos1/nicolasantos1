@@ -1,23 +1,30 @@
+
+
+
+# Nicolas Santos 👋🏼
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:099,100:039&height=140&section=header&text=Nicolas%20Santos&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30" />
+  <h3>Estudante de Tecnologia</h3>
+
+  <div align="left" style="margin: auto; max-width: 400px;">
+    <ul>
+        <p> 
+          🔗 Meu portfólio: <a href="https://nicolasantos1.github.io/">/nicolasantos1</a>
+        <p>
+        <p>
+          💻 Desenvolvedor em formação
+        </p>
+        <p>
+          🚀 Focado em Front-end e aprendendo Back-end
+        </p>
+        <p>
+          🎓 Análise e Desenvolvimento de Sistemas
+        </p>
+    </ul>
+  </div>
 </div>
-<p> Meu portfólio:  <a href="https://nicolasantos1.github.io/">/nicolasantos1</a></p>
-<div>
 
-### Estudante de Tecnologia
-
-<p> 
-    💻 Desenvolvedor em formação  
-</p> 
-    <p>
-    🚀 Focado em Front-end e aprendendo Back-end 
-</p> 
-    <p>
-    🎓 Análise e Desenvolvimento de Sistemas  
-</p> 
-
-    
-</div>
 
 
 ##
@@ -26,15 +33,15 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-<div>
-<img align="center" alt="nicolas-HTML" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="nicolas-CSS" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="nicolas-Js" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="nicolas-Git" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img align="center" alt="nicolas-Csharp" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="nicolas-Python" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="nicolas-Java" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">    
-</div>
+  <div>
+    <img align="center" alt="nicolas-HTML" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="nicolas-CSS" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="nicolas-Js" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="nicolas-Git" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+    <img align="center" alt="nicolas-Csharp" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="nicolas-Python" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="nicolas-Java" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">    
+  </div>
 </div>
 
 ##
@@ -42,7 +49,6 @@
 <div align="center"  >
 
 ### 📊 Estatísticas
-
 
 <img 
     alt="GitHub Stats" 
