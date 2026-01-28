@@ -1,5 +1,6 @@
-# Nicolas Santos 👋
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:099,100:039&height=140&section=header&text=Nicolas%20Santos&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30" />
+</div>
 <p> Meu portfólio:  <a href="https://nicolasantos1.github.io/">/nicolasantos1</a></p>
 <div>
 
@@ -17,6 +18,7 @@
 
     
 </div>
+
 
 ##
 
@@ -54,8 +56,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasantos1&theme=tokyonight&layout=compact&&custom_title=Tecnologias" 
 />
 </div>
-
-
-
-
 
