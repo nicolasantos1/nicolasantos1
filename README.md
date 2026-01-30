@@ -7,7 +7,7 @@
 <div align="center">
   <h3>Estudante de Tecnologia</h3>
 
-  <div align="left" style="margin: auto; max-width: 400px;">
+  <div align="center" >
     <ul>
         <p> 
           🔗 Meu portfólio: <a href="https://nicolasantos1.github.io/">/nicolasantos1</a>
