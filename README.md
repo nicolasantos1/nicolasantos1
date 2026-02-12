@@ -1,12 +1,17 @@
+<div align="center">
+<!-- Header Animado Premium com Gradiente Rosa/Roxo -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,60:38BDF8,40:38BDF8,100:1D4ED8
+&height=200&section=header&text=Nicolas Santos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=&descAlignY=55&descSize=18"/>
 
+<!-- Typing Effect Profissional -->
 
-
-# Nicolas Santos 👋🏼
-
+</div>
 
 <div align="center">
-  <h3>Estudante de Tecnologia</h3>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=DesenvolvedorWeb;Técnico em Informática;Estudande De Tecnologia;  " alt="Typing SVG" />
+  </a>
+  <br>
   <div align="center" >
     <ul>
         <p> 
@@ -24,10 +29,10 @@
     </ul>
   </div>
 </div>
+<br>
 
 
-
-##
+---
 
 <div align="center">
 
@@ -43,8 +48,9 @@
     <img align="center" alt="nicolas-Java" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">    
   </div>
 </div>
+<br>
 
-##
+---
 
 <div align="center"  >
 
@@ -63,3 +69,9 @@
 />
 </div>
 
+---
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,40:38BDF8,60:38BDF8,100:1D4ED8
+&section=footer&animation=fadeIn"/>
