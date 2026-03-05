@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,40:38BDF8,60:38BDF8,100:1D4ED8&height=200&section=header&text=Nicolas%20Santos&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,40:38BDF8,60:38BDF8,100:1D4ED8&height=200&section=header&text=Nicolas%20Santos%20Do%20Nascimento&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
