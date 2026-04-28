@@ -19,7 +19,7 @@
 
 <div align="center">
   <h3>🤖 Linguagens e Tecnologias</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,cs,py,java,nodejs&perline=11" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Git, C#, Python, Java e Node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,go,cs,py,java,nodejs&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Git, Go, C#, Python, Java e Node.js" />
 </div>
 
 ---
