@@ -4,14 +4,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+Tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+Técnologia" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   🔗 Meu portfólio: <a href="https://nicolasantos1.github.io/">nicolasantos1.github.io</a><br>
-  💻 Desenvolvedor em formação<br>
-  🚀 Focado em Front-end e aprendendo Back-end<br>
+  💻 Desenvolvedor FullStack<br>
   🎓 Análise e Desenvolvimento de Sistemas
 </div>
 
@@ -26,10 +25,8 @@
 
 <div align="center">
   <h3>📊 Estatísticas</h3>
-
   <img alt="GitHub Stats" width="400"
     src="https://github-readme-stats-ten-rust-89.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight&hide=contribs,issues" />
-
   <img alt="Tecnologias" width="400"
     src="https://github-readme-stats-ten-rust-89.vercel.app/api/top-langs/?username=nicolasantos1&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
 </div>
