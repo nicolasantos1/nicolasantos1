@@ -25,9 +25,9 @@
 
 <div align="center">
   <h3>📊 Estatísticas</h3>
-  <img alt="GitHub Stats" width="400"
-    src="https://github-readme-stats-ten-rust-89.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight&hide=contribs,issues&v=2" />
-  <img alt="Tecnologias" width="400"
+  <img alt="GitHub Stats" height="170"
+    src="https://github-readme-stats-ten-rust-89.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight&hide=contribs,issues&v=2" />&nbsp;&nbsp;
+  <img alt="Tecnologias" height="170"
     src="https://github-readme-stats-ten-rust-89.vercel.app/api/top-langs/?username=nicolasantos1&theme=tokyonight&layout=compact&custom_title=Tecnologias&v=2" />
 </div>
 
