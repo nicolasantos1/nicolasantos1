@@ -1,34 +1,76 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,40:38BDF8,60:38BDF8,100:1D4ED8&height=200&section=header&text=Nicolas%20Santos%20Do%20Nascimento&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-</div>
+  <h1>Olá, eu sou Nicolas Santos 👋</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+Técnologia" alt="Typing SVG" />
+  <p><strong>Desenvolvedor Full Stack · Analista de Dados · Técnico em Informática</strong></p>
+
+  <p>
+    Construo aplicações web e APIs com foco em código claro,<br>
+    aprendizado contínuo e soluções que resolvem problemas reais.
+  </p>
+
+  <a href="https://nicolasantos1.github.io/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-santosdonascimento/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
+---
+
+## Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Mackenzie.
+- 💻 Técnico em Informática pelo Senac e desenvolvedor em formação.
+- ⚙️ Praticando desenvolvimento de APIs, aplicações web e análise de dados.
+- 📍 São Paulo, Brasil.
+
+## Tecnologias
+
 <div align="center">
-  🔗 Meu portfólio: <a href="https://nicolasantos1.github.io/">nicolasantos1.github.io</a><br>
-  💻 Desenvolvedor FullStack<br>
-  🎓 Análise e Desenvolvimento de Sistemas
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,go,py,java,git,docker&perline=12"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Go, Python, Java, Git e Docker"
+  >
+</div>
+
+## Projetos em destaque
+
+### [Cadastro Leads](https://github.com/nicolasantos1/cadastro-leads)
+
+API REST para gestão de leads com CRUD completo, validação, paginação, autenticação, documentação e testes.
+
+`Go` · `Fiber` · `SQLite` · `Swagger/OpenAPI` · `Docker`
+
+### [Real-time Sentiment Analyzer](https://github.com/nicolasantos1/backend-challenge-092025)
+
+API para analisar feeds de mensagens em tempo real, calcular sentimento e gerar métricas de engajamento, acompanhada de testes e CI.
+
+`Python` · `FastAPI` · `Pytest` · `GitHub Actions`
+
+### [HTML Analyzer](https://github.com/nicolasantos1/teste-tecnico)
+
+Programa que encontra o trecho de texto mais profundo de uma página HTML e trata documentos malformados e falhas de conexão.
+
+`Java`
+
+## Estatísticas
+
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-ten-rust-89.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&hide=contribs,issues&v=3"
+    alt="Estatísticas do GitHub de Nicolas Santos"
+  >&nbsp;
+  <img
+    height="170"
+    src="https://github-readme-stats-ten-rust-89.vercel.app/api/top-langs/?username=nicolasantos1&theme=tokyonight&layout=compact&locale=pt-br&hide_border=true&custom_title=Linguagens&v=3"
+    alt="Linguagens mais utilizadas por Nicolas Santos"
+  >
 </div>
 
 ---
 
 <div align="center">
-  <h3>🤖 Linguagens e Tecnologias</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git,go,py,java,nodejs&perline=12" alt="JavaScript, TypeScript, React, Next.js, Git, Go, Python, Java e Node.js" />
+  <sub>Conheça meus projetos e acompanhe minha evolução pelo GitHub.</sub>
 </div>
-
----
-
-<div align="center">
-  <h3>📊 Estatísticas</h3>
-  <img alt="GitHub Stats" width="400"
-    src="https://github-readme-stats-ten-rust-89.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight&hide=contribs,issues&v=2" />
-  <img alt="Tecnologias" width="400"
-    src="https://github-readme-stats-ten-rust-89.vercel.app/api/top-langs/?username=nicolasantos1&theme=tokyonight&layout=compact&custom_title=Tecnologias&v=2" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,40:38BDF8,60:38BDF8,100:1D4ED8&section=footer&animation=fadeIn" />
