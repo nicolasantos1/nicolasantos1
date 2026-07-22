@@ -25,10 +25,10 @@
 
 <div align="center">
   <h3>📊 Estatísticas</h3>
-  <img alt="GitHub Stats" width="400"
-    src="https://github-readme-stats-ten-rust-89.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight&hide=contribs,issues&card_width=400&v=3" />&nbsp;&nbsp;
-  <img alt="Tecnologias" width="400"
-    src="https://github-readme-stats-ten-rust-89.vercel.app/api/top-langs/?username=nicolasantos1&theme=tokyonight&layout=compact&custom_title=Tecnologias&card_width=400&v=3" />
+  <img alt="GitHub Stats" width="49%"
+    src="https://github-readme-stats-ten-rust-89.vercel.app/api?username=nicolasantos1&show_icons=true&theme=tokyonight&hide=contribs,issues&card_width=437&line_height=30&v=8" />&nbsp;
+  <img alt="Tecnologias" width="49%"
+    src="https://github-readme-stats-ten-rust-89.vercel.app/api/top-langs/?username=nicolasantos1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&card_width=437&v=8" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,40:38BDF8,60:38BDF8,100:1D4ED8&section=footer&animation=fadeIn" />
